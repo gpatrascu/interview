@@ -1,0 +1,16 @@
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\DataMunging.deps.json
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\DataMunging.runtimeconfig.json
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\DataMunging.runtimeconfig.dev.json
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\DataMunging.dll
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\DataMunging.pdb
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.csprojAssemblyReference.cache
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.AssemblyInfoInputs.cache
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.AssemblyInfo.cs
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.dll
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.pdb
+D:\kata\DataMunging\DataMunging\bin\Debug\netcoreapp2.1\football.dat
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.csproj.CoreCompileInputs.cache
+D:\kata\DataMunging\DataMunging\obj\Debug\netcoreapp2.1\DataMunging.genruntimeconfig.cache
